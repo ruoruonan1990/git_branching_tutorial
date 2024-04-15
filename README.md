@@ -2,4 +2,4 @@
 
 In this tutorial, we will disucss git basics and how to use git branches.
 
-I am opening the file
+I am writing the file
